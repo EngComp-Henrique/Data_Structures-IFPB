@@ -6,7 +6,7 @@ Documenting my progress in data structures using Python and C
 
 ## Prerequisite
 
-Before to start, you have to install:
+Before starting, you have to install:
 
 * [GCC Compiler (Compiling C code)](https://gcc.gnu.org/install/)
 
