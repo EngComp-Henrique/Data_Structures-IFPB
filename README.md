@@ -2,8 +2,6 @@
 
 Documenting my progress in data structures using Python and C
 
----
-
 ## Prerequisite
 
 Before starting, you have to install:
@@ -13,8 +11,6 @@ Before starting, you have to install:
 * [Python interpreter](https://www.python.org/downloads/)
 
 * [CMake (Control software compilation)](https://cmake.org/download/)
-
----
 
 ## How to run?
 
